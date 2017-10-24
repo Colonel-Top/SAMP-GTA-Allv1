@@ -1,0 +1,591 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[21:38:45] 
+[21:38:45] Server Plugins
+[21:38:45] --------------
+[21:38:45]  Loading plugin: sscanf.so
+[21:38:45] 
+
+[21:38:45]  ===============================
+
+[21:38:45]       sscanf plugin loaded.     
+
+[21:38:45]          Version:  2.8.1        
+
+[21:38:45]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:38:45]  ===============================
+
+[21:38:45]   Loaded.
+[21:38:45]  Loading plugin: whirlpool.so
+[21:38:45]  
+[21:38:45]  ==================
+[21:38:45]  
+[21:38:45]   Whirlpool loaded
+[21:38:45]  
+[21:38:45]  ==================
+[21:38:45]  
+[21:38:45]   Loaded.
+[21:38:45]  Loading plugin: regex.so
+[21:38:45] 
+
+[21:38:45] ______________________________________
+
+[21:38:45]  Regular Expression Plugin v0.2.0 loaded
+[21:38:45] ______________________________________
+
+[21:38:45]  By: Fro (c) Copyright <TBG> 2009-2011
+[21:38:45] ______________________________________
+
+[21:38:45]   Loaded.
+[21:38:45]  Loading plugin: dns.so
+[21:38:45] 
+
+*** DNS Plugin v2.4 by Incognito loaded ***
+
+[21:38:45]   Loaded.
+[21:38:45]  Loading plugin: streamer.so
+[21:38:45] 
+
+*** Streamer Plugin v2.7 by Incognito loaded ***
+
+[21:38:45]   Loaded.
+[21:38:45]  Loading plugin: crashdetect.so
+[21:38:45]   CrashDetect v4.13 is OK.
+[21:38:45]   Loaded.
+[21:38:45]  Loaded 6 plugins.
+
+[21:38:45] 
+[21:38:45] Filterscripts
+[21:38:45] ---------------
+[21:38:45]   Loading filterscript 'coloneladminbk.amx'...
+[21:38:46]  
+[21:38:46]  
+[21:38:46]  
+[21:38:46]  ======================================= 
+[21:38:46]  |                                     | 
+[21:38:46]  |        YSI version 3.09.0684        | 
+[21:38:46]  |        By Alex "Y_Less" Cole        | 
+[21:38:46]  |                                     | 
+[21:38:46]  ======================================= 
+[21:38:46]  
+[21:38:46] -mSelection- WARNING: Failed to load list: "skins.txt"
+[21:38:46] -mSelection- WARNING: Failed to load list: "skins.txt"
+[21:38:46] 
+
+[21:38:46] -------------------------------------------------------------------
+[21:38:46]  
+[21:38:46] Configurations from 'JakAdmin/Config/script.ini' are now loaded!
+[21:38:46] Recording Player text file has been loaded frm Database/Config folder!
+[21:38:46]  
+[21:38:46] 
+
+[21:38:46] [-Administrator System Configurations *-]
+[21:38:46] > Chat: Enable		AutoLogin: Disable	ConnectMsg: Enable
+[21:38:46] > ReadPM: Disable	ReadCMDs: Enable	AdmReadCmd: Disable
+[21:38:46] > AntiCmdSpam: Disable	AntiAd: Enable		AntiSwear: Enable
+[21:38:46] > AntiSpam: Disable	NoCaps: Disable		MaxPing: Disable
+[21:38:46] > ForbidName: Enable	PartName: Enable	Announcements: Enable
+[21:38:46] 
+
+[21:38:46]  
+[21:38:46] Administrator System v.Yin <3 (c), Copyright - 2013
+[21:38:46] Administrator System Duration: 1 ms
+[21:38:46] Max Admin Level: 6
+[21:38:46] Administrator System Total Commands: 159
+[21:38:46] Date: 18/02/2014 | Time: 21:38:46
+[21:38:46]  
+[21:38:46] -------------------------------------------------------------------
+[21:38:46] 
+
+[21:38:46] TEXTDRAW: All System's existing textdraw has been readed!
+[21:38:46]   Loading filterscript 'Addon.amx'...
+[21:38:46] 
+--------------------------------------
+[21:38:46]  Limit Filterscripts Loaded
+[21:38:46] --------------------------------------
+
+[21:38:46]   Loading filterscript 'Addon2.amx'...
+[21:38:46] 
+--------------------------------------
+[21:38:46]        RandomMessages
+[21:38:46] --------------------------------------
+
+[21:38:46]   Loading filterscript 'cmd.amx'...
+[21:38:46] 
+--------------------------------------
+[21:38:46]  Loaded CMD
+[21:38:46] --------------------------------------
+
+[21:38:46]   Loading filterscript 'armedbody.amx'...
+[21:38:46] =====================================================================
+[21:38:46] Armedbody Start Loading
+[21:38:46] FilterScript Name: Armed body
+[21:38:46] Description:Attatch weapond to player's body
+[21:38:46] Start Reading Database
+[21:38:46] Loding ...
+[21:38:46] Armedbody Has Been Loaded
+[21:38:46] =====================================================================
+[21:38:46]   Loading filterscript 'nuke.amx'...
+[21:38:47] 
+--------------------------------------
+[21:38:47]  Hydrogen Bomb 
+[21:38:47] --------------------------------------
+
+[21:38:47]   Loading filterscript 'pm.amx'...
+[21:38:47] 
+--------------------------------------
+[21:38:47]  PM
+[21:38:47] --------------------------------------
+
+[21:38:47]   Loading filterscript 'laser.amx'...
+[21:38:47] 
+-- Laser Pointer Loaded --
+
+[21:38:47]   Loading filterscript 'headshot.amx'...
+[21:38:47]   Loading filterscript 'Animation.amx'...
+[21:38:47] 
+--------------------------------------
+[21:38:47]    ANimation Loaded        
+[21:38:47] --------------------------------------
+
+[21:38:47]   Loaded 10 filterscripts.
+
+[21:38:48] 
+----------------------------------
+[21:38:48]  Battlefield SAMP Operation Red Wing
+[21:38:48] ----------------------------------
+
+[21:38:48] Number of vehicle models: 35
+[21:38:48] Incoming connection: 124.121.57.51:57657
+[21:38:49] [join] [BF]USMC_Colonel has joined the server (0:124.121.57.51)
+[21:38:57] [debug] Server crashed while executing coloneladminbk.amx
+[21:38:57] [debug] AMX backtrace:
+[21:38:57] [debug] #0 native db_get_field_assoc () [08143500] from samp03svr
+[21:38:57] [debug] #1 000562bc in ?? (0x00000000) from coloneladminbk.amx
+[21:38:57] [debug] #2 0001ecb8 in public OnDialogResponse (0x00000000, 0x0000138f, 0x00000001, 0xffffffff, 0x00089574) from coloneladminbk.amx
+[21:38:57] [debug] Native backtrace:
+[21:38:57] [debug] #0 b732631b in _ZN10StackTraceC1EPv () from plugins/crashdetect.so
+[21:38:57] [debug] #1 b73207c2 in _ZN11CrashDetect20PrintNativeBacktraceERSoPv () from plugins/crashdetect.so
+[21:38:57] [debug] #2 b73213ac in _ZN11CrashDetect20PrintNativeBacktraceEPv () from plugins/crashdetect.so
+[21:38:57] [debug] #3 b7321856 in _ZN11CrashDetect11OnExceptionEPv () from plugins/crashdetect.so
+[21:38:57] [debug] #4 b7325f6c in ?? () from plugins/crashdetect.so
+[21:38:57] [debug] #5 b77a0600 in ?? ()
+[21:38:57] [debug] #6 08143080 in ?? () from ./samp03svr
+[21:38:57] [debug] #7 08143613 in ?? () from ./samp03svr
+[21:38:57] [debug] #8 08093d84 in ?? () from ./samp03svr
+[21:38:57] [debug] #9 b731e03c in _ZN11CrashDetect13DoAmxCallbackEiPiS0_ () from plugins/crashdetect.so
+[21:38:57] [debug] #10 b7324458 in ?? () from plugins/crashdetect.so
+[21:38:57] [debug] #11 b7328c61 in amx_Exec () from plugins/crashdetect.so
+[21:38:57] [debug] #12 b7320708 in _ZN11CrashDetect9DoAmxExecEPii () from plugins/crashdetect.so
+[21:38:57] [debug] #13 b73241c9 in ?? () from plugins/crashdetect.so
+[21:38:57] [debug] #14 080a1d34 in ?? () from ./samp03svr
+[21:38:57] [debug] #15 080b0985 in ?? () from ./samp03svr
+[21:38:57] [debug] #16 08071ac8 in ?? () from ./samp03svr
+[21:38:57] [debug] #17 08071bc2 in ?? () from ./samp03svr
+[21:38:57] [debug] #18 0807ba20 in ?? () from ./samp03svr
+[21:38:57] [debug] #19 080acbfd in ?? () from ./samp03svr
+[21:38:57] [debug] #20 080acda2 in ?? () from ./samp03svr
+[21:38:57] [debug] #21 080a81ae in ?? () from ./samp03svr
+[21:38:57] [debug] #22 b74a34d3 in __libc_start_main () from /lib/i386-linux-gnu/libc.so.6
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[21:40:36] 
+[21:40:36] Server Plugins
+[21:40:36] --------------
+[21:40:36]  Loading plugin: sscanf.so
+[21:40:36] 
+
+[21:40:36]  ===============================
+
+[21:40:36]       sscanf plugin loaded.     
+
+[21:40:36]          Version:  2.8.1        
+
+[21:40:36]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:40:36]  ===============================
+
+[21:40:36]   Loaded.
+[21:40:36]  Loading plugin: whirlpool.so
+[21:40:36]  
+[21:40:36]  ==================
+[21:40:36]  
+[21:40:36]   Whirlpool loaded
+[21:40:36]  
+[21:40:36]  ==================
+[21:40:36]  
+[21:40:36]   Loaded.
+[21:40:36]  Loading plugin: regex.so
+[21:40:36] 
+
+[21:40:36] ______________________________________
+
+[21:40:36]  Regular Expression Plugin v0.2.0 loaded
+[21:40:36] ______________________________________
+
+[21:40:36]  By: Fro (c) Copyright <TBG> 2009-2011
+[21:40:36] ______________________________________
+
+[21:40:36]   Loaded.
+[21:40:36]  Loading plugin: dns.so
+[21:40:36] 
+
+*** DNS Plugin v2.4 by Incognito loaded ***
+
+[21:40:36]   Loaded.
+[21:40:36]  Loading plugin: streamer.so
+[21:40:36] 
+
+*** Streamer Plugin v2.7 by Incognito loaded ***
+
+[21:40:36]   Loaded.
+[21:40:36]  Loading plugin: crashdetect.so
+[21:40:36]   CrashDetect v4.13 is OK.
+[21:40:36]   Loaded.
+[21:40:36]  Loaded 6 plugins.
+
+[21:40:36] 
+[21:40:36] Filterscripts
+[21:40:36] ---------------
+[21:40:36]   Loading filterscript 'jakadmins.amx'...
+[21:40:36]  
+[21:40:36]  
+[21:40:36]  
+[21:40:36]  ======================================= 
+[21:40:36]  |                                     | 
+[21:40:36]  |        YSI version 3.09.0684        | 
+[21:40:36]  |        By Alex "Y_Less" Cole        | 
+[21:40:36]  |                                     | 
+[21:40:36]  ======================================= 
+[21:40:36]  
+[21:40:36] -mSelection- WARNING: Failed to load list: "skins.txt"
+[21:40:36] -mSelection- WARNING: Failed to load list: "skins.txt"
+[21:40:36] 
+
+[21:40:36] -------------------------------------------------------------------
+[21:40:36]  
+[21:40:36] Configurations from 'JakAdmin/Config/script.ini' are now loaded!
+[21:40:36] Recording Player text file has been loaded frm JakAdmin/Config folder!
+[21:40:36]  
+[21:40:36] 
+
+[21:40:36] [-* JakAdmin Configurations *-]
+[21:40:36] > Chat: Enable		AutoLogin: Disable	ConnectMsg: Enable
+[21:40:36] > ReadPM: Disable	ReadCMDs: Enable	AdmReadCmd: Disable
+[21:40:36] > AntiCmdSpam: Disable	AntiAd: Enable		AntiSwear: Enable
+[21:40:36] > AntiSpam: Disable	NoCaps: Disable		MaxPing: Disable
+[21:40:36] > ForbidName: Enable	PartName: Enable	Announcements: Enable
+[21:40:36] 
+
+[21:40:36]  
+[21:40:36] JakAdmin v3.1 (c), Copyright - 2013
+[21:40:36] JakAdmin Duration: 1 ms
+[21:40:36] Max Admin Level: 6
+[21:40:36] JakAdmin Total Commands: 160
+[21:40:36] Date: 18/02/2014 | Time: 21:40:36
+[21:40:36]  
+[21:40:36] -------------------------------------------------------------------
+[21:40:36] 
+
+[21:40:36] TEXTDRAW: All JakAdmin's existing textdraw has been readed!
+[21:40:36]   Loading filterscript 'Addon.amx'...
+[21:40:36] 
+--------------------------------------
+[21:40:36]  Limit Filterscripts Loaded
+[21:40:36] --------------------------------------
+
+[21:40:36]   Loading filterscript 'Addon2.amx'...
+[21:40:36] 
+--------------------------------------
+[21:40:36]        RandomMessages
+[21:40:36] --------------------------------------
+
+[21:40:36]   Loading filterscript 'cmd.amx'...
+[21:40:37] 
+--------------------------------------
+[21:40:37]  Loaded CMD
+[21:40:37] --------------------------------------
+
+[21:40:37]   Loading filterscript 'armedbody.amx'...
+[21:40:37] Incoming connection: 124.121.57.51:59252
+[21:40:37] =====================================================================
+[21:40:37] Armedbody Start Loading
+[21:40:37] FilterScript Name: Armed body
+[21:40:37] Description:Attatch weapond to player's body
+[21:40:37] Start Reading Database
+[21:40:37] Loding ...
+[21:40:37] Armedbody Has Been Loaded
+[21:40:37] =====================================================================
+[21:40:37]   Loading filterscript 'nuke.amx'...
+[21:40:37] 
+--------------------------------------
+[21:40:37]  Hydrogen Bomb 
+[21:40:37] --------------------------------------
+
+[21:40:37]   Loading filterscript 'pm.amx'...
+[21:40:38] 
+--------------------------------------
+[21:40:38]  PM
+[21:40:38] --------------------------------------
+
+[21:40:38]   Loading filterscript 'laser.amx'...
+[21:40:38] 
+-- Laser Pointer Loaded --
+
+[21:40:38]   Loading filterscript 'headshot.amx'...
+[21:40:38]   Loading filterscript 'Animation.amx'...
+[21:40:38] 
+--------------------------------------
+[21:40:38]    ANimation Loaded        
+[21:40:38] --------------------------------------
+
+[21:40:38]   Loaded 10 filterscripts.
+
+[21:40:39] 
+----------------------------------
+[21:40:39]  Battlefield SAMP Operation Red Wing
+[21:40:39] ----------------------------------
+
+[21:40:39] Number of vehicle models: 35
+[21:40:39] [join] [BF]USMC_Colonel has joined the server (0:124.121.57.51)
+[21:40:45] [debug] Server crashed while executing jakadmins.amx
+[21:40:45] [debug] AMX backtrace:
+[21:40:45] [debug] #0 native db_get_field_assoc () [08143500] from samp03svr
+[21:40:45] [debug] #1 00056464 in ?? (0x00000000) from jakadmins.amx
+[21:40:45] [debug] #2 0001e8bc in public OnDialogResponse (0x00000000, 0x00001389, 0x00000001, 0xffffffff, 0x00087d48) from jakadmins.amx
+[21:40:45] [debug] Native backtrace:
+[21:40:45] [debug] #0 b72b931b in _ZN10StackTraceC1EPv () from plugins/crashdetect.so
+[21:40:45] [debug] #1 b72b37c2 in _ZN11CrashDetect20PrintNativeBacktraceERSoPv () from plugins/crashdetect.so
+[21:40:45] [debug] #2 b72b43ac in _ZN11CrashDetect20PrintNativeBacktraceEPv () from plugins/crashdetect.so
+[21:40:45] [debug] #3 b72b4856 in _ZN11CrashDetect11OnExceptionEPv () from plugins/crashdetect.so
+[21:40:45] [debug] #4 b72b8f6c in ?? () from plugins/crashdetect.so
+[21:40:45] [debug] #5 b7733600 in ?? ()
+[21:40:45] [debug] #6 08143080 in ?? () from ./samp03svr
+[21:40:45] [debug] #7 08143613 in ?? () from ./samp03svr
+[21:40:45] [debug] #8 08093d84 in ?? () from ./samp03svr
+[21:40:45] [debug] #9 b72b103c in _ZN11CrashDetect13DoAmxCallbackEiPiS0_ () from plugins/crashdetect.so
+[21:40:45] [debug] #10 b72b7458 in ?? () from plugins/crashdetect.so
+[21:40:45] [debug] #11 b72bbc61 in amx_Exec () from plugins/crashdetect.so
+[21:40:45] [debug] #12 b72b3708 in _ZN11CrashDetect9DoAmxExecEPii () from plugins/crashdetect.so
+[21:40:45] [debug] #13 b72b71c9 in ?? () from plugins/crashdetect.so
+[21:40:45] [debug] #14 080a1d34 in ?? () from ./samp03svr
+[21:40:45] [debug] #15 080b0985 in ?? () from ./samp03svr
+[21:40:45] [debug] #16 08071ac8 in ?? () from ./samp03svr
+[21:40:45] [debug] #17 08071bc2 in ?? () from ./samp03svr
+[21:40:45] [debug] #18 0807ba20 in ?? () from ./samp03svr
+[21:40:45] [debug] #19 080acbfd in ?? () from ./samp03svr
+[21:40:45] [debug] #20 080acda2 in ?? () from ./samp03svr
+[21:40:45] [debug] #21 080a81ae in ?? () from ./samp03svr
+[21:40:45] [debug] #22 b74364d3 in __libc_start_main () from /lib/i386-linux-gnu/libc.so.6
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[21:44:47] 
+[21:44:47] Server Plugins
+[21:44:47] --------------
+[21:44:47]  Loading plugin: sscanf.so
+[21:44:47] 
+
+[21:44:47]  ===============================
+
+[21:44:47]       sscanf plugin loaded.     
+
+[21:44:47]          Version:  2.8.1        
+
+[21:44:47]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:44:47]  ===============================
+
+[21:44:47]   Loaded.
+[21:44:47]  Loading plugin: whirlpool.so
+[21:44:47]  
+[21:44:47]  ==================
+[21:44:47]  
+[21:44:47]   Whirlpool loaded
+[21:44:47]  
+[21:44:47]  ==================
+[21:44:47]  
+[21:44:47]   Loaded.
+[21:44:47]  Loading plugin: regex.so
+[21:44:47] 
+
+[21:44:47] ______________________________________
+
+[21:44:47]  Regular Expression Plugin v0.2.0 loaded
+[21:44:47] ______________________________________
+
+[21:44:47]  By: Fro (c) Copyright <TBG> 2009-2011
+[21:44:47] ______________________________________
+
+[21:44:47]   Loaded.
+[21:44:47]  Loading plugin: dns.so
+[21:44:47] 
+
+*** DNS Plugin v2.4 by Incognito loaded ***
+
+[21:44:47]   Loaded.
+[21:44:47]  Loading plugin: streamer.so
+[21:44:47] 
+
+*** Streamer Plugin v2.7 by Incognito loaded ***
+
+[21:44:47]   Loaded.
+[21:44:47]  Loading plugin: crashdetect.so
+[21:44:47]   CrashDetect v4.13 is OK.
+[21:44:47]   Loaded.
+[21:44:47]  Loaded 6 plugins.
+
+[21:44:47] 
+[21:44:47] Filterscripts
+[21:44:47] ---------------
+[21:44:47]   Loading filterscript 'coloneladminbk.amx'...
+[21:44:48]  
+[21:44:48]  
+[21:44:48]  
+[21:44:48]  ======================================= 
+[21:44:48]  |                                     | 
+[21:44:48]  |        YSI version 3.09.0684        | 
+[21:44:48]  |        By Alex "Y_Less" Cole        | 
+[21:44:48]  |                                     | 
+[21:44:48]  ======================================= 
+[21:44:48]  
+[21:44:48] -mSelection- WARNING: Failed to load list: "skins.txt"
+[21:44:48] -mSelection- WARNING: Failed to load list: "skins.txt"
+[21:44:48] 
+
+[21:44:48] -------------------------------------------------------------------
+[21:44:48]  
+[21:44:48] Configurations from 'JakAdmin/Config/script.ini' are now loaded!
+[21:44:48] Recording Player text file has been loaded frm Database/Config folder!
+[21:44:48]  
+[21:44:48] 
+
+[21:44:48] [-Administrator System Configurations *-]
+[21:44:48] > Chat: Enable		AutoLogin: Disable	ConnectMsg: Enable
+[21:44:48] > ReadPM: Disable	ReadCMDs: Enable	AdmReadCmd: Disable
+[21:44:48] > AntiCmdSpam: Disable	AntiAd: Enable		AntiSwear: Enable
+[21:44:48] > AntiSpam: Disable	NoCaps: Disable		MaxPing: Disable
+[21:44:48] > ForbidName: Enable	PartName: Enable	Announcements: Enable
+[21:44:48] 
+
+[21:44:48]  
+[21:44:48] Administrator System v.Yin <3 (c), Copyright - 2013
+[21:44:48] Administrator System Duration: 1 ms
+[21:44:48] Max Admin Level: 6
+[21:44:48] Administrator System Total Commands: 159
+[21:44:48] Date: 18/02/2014 | Time: 21:44:48
+[21:44:48]  
+[21:44:48] -------------------------------------------------------------------
+[21:44:48] 
+
+[21:44:48] TEXTDRAW: All System's existing textdraw has been readed!
+[21:44:48]   Loading filterscript 'Addon.amx'...
+[21:44:48] 
+--------------------------------------
+[21:44:48]  Limit Filterscripts Loaded
+[21:44:48] --------------------------------------
+
+[21:44:48]   Loading filterscript 'Addon2.amx'...
+[21:44:48] 
+--------------------------------------
+[21:44:48]        RandomMessages
+[21:44:48] --------------------------------------
+
+[21:44:48]   Loading filterscript 'cmd.amx'...
+[21:44:48] 
+--------------------------------------
+[21:44:48]  Loaded CMD
+[21:44:48] --------------------------------------
+
+[21:44:48]   Loading filterscript 'armedbody.amx'...
+[21:44:48] =====================================================================
+[21:44:48] Armedbody Start Loading
+[21:44:48] FilterScript Name: Armed body
+[21:44:48] Description:Attatch weapond to player's body
+[21:44:48] Start Reading Database
+[21:44:48] Loding ...
+[21:44:48] Armedbody Has Been Loaded
+[21:44:48] =====================================================================
+[21:44:48]   Loading filterscript 'nuke.amx'...
+[21:44:49] 
+--------------------------------------
+[21:44:49]  Hydrogen Bomb 
+[21:44:49] --------------------------------------
+
+[21:44:49]   Loading filterscript 'pm.amx'...
+[21:44:49] 
+--------------------------------------
+[21:44:49]  PM
+[21:44:49] --------------------------------------
+
+[21:44:49]   Loading filterscript 'laser.amx'...
+[21:44:49] 
+-- Laser Pointer Loaded --
+
+[21:44:49]   Loading filterscript 'headshot.amx'...
+[21:44:49]   Loading filterscript 'Animation.amx'...
+[21:44:50] 
+--------------------------------------
+[21:44:50]    ANimation Loaded        
+[21:44:50] --------------------------------------
+
+[21:44:50]   Loaded 10 filterscripts.
+
+[21:44:50] Incoming connection: 124.121.57.51:56765
+[21:44:50] 
+----------------------------------
+[21:44:50]  Battlefield SAMP Operation Red Wing
+[21:44:50] ----------------------------------
+
+[21:44:50] Number of vehicle models: 35
+[21:44:51] [join] [BF]USMC_Colonel has joined the server (0:124.121.57.51)
+[21:44:54] [debug] Server crashed while executing coloneladminbk.amx
+[21:44:54] [debug] AMX backtrace:
+[21:44:54] [debug] #0 native db_get_field_assoc () [08143500] from samp03svr
+[21:44:54] [debug] #1 000562bc in ?? (0x00000000) from coloneladminbk.amx
+[21:44:54] [debug] #2 0001ea38 in public OnDialogResponse (0x00000000, 0x0000090a, 0x00000001, 0xffffffff, 0x00089574) from coloneladminbk.amx
+[21:44:54] [debug] Native backtrace:
+[21:44:54] [debug] #0 b72c931b in _ZN10StackTraceC1EPv () from plugins/crashdetect.so
+[21:44:54] [debug] #1 b72c37c2 in _ZN11CrashDetect20PrintNativeBacktraceERSoPv () from plugins/crashdetect.so
+[21:44:54] [debug] #2 b72c43ac in _ZN11CrashDetect20PrintNativeBacktraceEPv () from plugins/crashdetect.so
+[21:44:54] [debug] #3 b72c4856 in _ZN11CrashDetect11OnExceptionEPv () from plugins/crashdetect.so
+[21:44:54] [debug] #4 b72c8f6c in ?? () from plugins/crashdetect.so
+[21:44:54] [debug] #5 b7743600 in ?? ()
+[21:44:54] [debug] #6 08143080 in ?? () from ./samp03svr
+[21:44:54] [debug] #7 08143613 in ?? () from ./samp03svr
+[21:44:54] [debug] #8 08093d84 in ?? () from ./samp03svr
+[21:44:54] [debug] #9 b72c103c in _ZN11CrashDetect13DoAmxCallbackEiPiS0_ () from plugins/crashdetect.so
+[21:44:54] [debug] #10 b72c7458 in ?? () from plugins/crashdetect.so
+[21:44:54] [debug] #11 b72cbc61 in amx_Exec () from plugins/crashdetect.so
+[21:44:54] [debug] #12 b72c3708 in _ZN11CrashDetect9DoAmxExecEPii () from plugins/crashdetect.so
+[21:44:54] [debug] #13 b72c71c9 in ?? () from plugins/crashdetect.so
+[21:44:54] [debug] #14 080a1d34 in ?? () from ./samp03svr
+[21:44:54] [debug] #15 080b0985 in ?? () from ./samp03svr
+[21:44:54] [debug] #16 08071ac8 in ?? () from ./samp03svr
+[21:44:54] [debug] #17 08071bc2 in ?? () from ./samp03svr
+[21:44:54] [debug] #18 0807ba20 in ?? () from ./samp03svr
+[21:44:54] [debug] #19 080acbfd in ?? () from ./samp03svr
+[21:44:54] [debug] #20 080acda2 in ?? () from ./samp03svr
+[21:44:54] [debug] #21 080a81ae in ?? () from ./samp03svr
+[21:44:54] [debug] #22 b74464d3 in __libc_start_main () from /lib/i386-linux-gnu/libc.so.6

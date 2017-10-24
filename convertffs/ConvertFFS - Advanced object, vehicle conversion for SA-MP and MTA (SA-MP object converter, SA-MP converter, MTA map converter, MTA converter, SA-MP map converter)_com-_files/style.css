@@ -1,0 +1,303 @@
+@font-face {
+	font-family: circula-medium;
+	src: url(../fonts/circula-medium.eot?#iefix) format("embedded-opentype"), url(../fonts/circula-medium.woff) format("woff"), url(../fonts/circula-medium.ttf) format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+body {
+	background-position: bottom, bottom, 0px 0px, 0px 0px; margin: 0px; padding: 0px; width: 100%; height: 100%; font-family: "Trebuchet MS",san-serif; font-size: 9pt; background-image: url("../images/panorama.png"), url("../images/panorama-bg.png"), url("../images/top-bg.png"), url("../images/main-bg.png"); background-attachment: fixed; background-repeat: no-repeat, repeat-x, repeat-x, repeat; background-color: rgb(199, 233, 238);
+}
+#dropDownContainer {
+	top: -160px; width: 100%; text-align: center; position: absolute; z-index: 2000;
+}
+#dropDown {
+	background: rgb(8, 30, 48); margin: auto; width: 981px; height: 165px; color: rgb(215, 242, 254); overflow: hidden; border-bottom-right-radius: 5px; border-bottom-left-radius: 5px; text-shadow: -1px 1px 0px #000; -moz-border-radius: 0px 0px 5px 5px; -khtml-border-bottom-left-radius: 5px; -khtml-border-bottom-right-radius: 5px;
+}
+#dropDownClose {
+	margin: 4px; padding: 7px 0px 6px;
+}
+.dropDownActivate {
+	cursor: pointer;
+}
+.sprite {
+	background: url("../images/sprite.png"); border: 0px currentColor; border-image: none;
+}
+.spriteBg {
+	background: rgba(0, 0, 0, 0.85); border: 0px currentColor; border-image: none;
+}
+#pageContainer {
+	margin: auto; width: 981px;
+}
+#pageContainerConverted {
+	margin: auto; width: 981px;
+}
+#wrapper {
+	margin: 0em auto -175px; height: auto !important; min-height: 100%;
+}
+#wrapperPush {
+	height: 175px;
+}
+#footer {
+	height: 175px;
+}
+#inputArea {
+	background: rgba(0, 0, 0, 0.7); padding: 5px; border-radius: 5px; -moz-border-radius: 5px; -khtml-border-radius: 5px;
+}
+#outputArea {
+	background: rgba(0, 0, 0, 0.7); padding: 5px; border-radius: 5px; -moz-border-radius: 5px; -khtml-border-radius: 5px;
+}
+#inputAreaElement {
+	padding: 0px; border: 0px currentColor; border-image: none; width: 100%; font-family: "Lucida Console", Monaco, monospace; font-size: 90%; margin-bottom: 5px; min-height: 100px; resize: none;
+}
+#outputAreaElement {
+	padding: 0px; border: 0px currentColor; border-image: none; width: 100%; font-family: "Lucida Console", Monaco, monospace; font-size: 90%; margin-bottom: 5px; min-height: 100px; resize: none;
+}
+#inputAreaElement {
+	height: 108px;
+}
+#outputAreaElement {
+	height: 189px;
+}
+.inputAreaElementBg {
+	
+}
+.inputAreaElementUpload {
+	background: url("../images/loading.gif") no-repeat center;
+}
+.outputAreaElementWait {
+	background: url("../images/loading.gif") no-repeat center;
+}
+.relative {
+	position: relative;
+}
+.paste-text {
+	left: 35.55%; top: 20%; color: rgb(56, 68, 72); text-transform: lowercase; font-family: circula-medium; font-size: 50px; position: absolute;
+}
+#dropDownLeft {
+	margin: 0em; float: left;
+}
+#dropDownCenter {
+	margin: 0em 1em;
+}
+#dropDownRight {
+	float: right;
+}
+#dropDownLeft {
+	width: 33%; height: 123px; text-align: center; overflow: hidden;
+}
+#dropDownCenter {
+	width: 33%; height: 123px; text-align: center; overflow: hidden;
+}
+#dropDownRight {
+	width: 33%; height: 123px; text-align: center; overflow: hidden;
+}
+#inputBlock {
+	width: 265px; height: 66px; margin-right: 5px; float: left;
+}
+#outputBlock {
+	margin: 0em 1em; width: 265px; height: 66px;
+}
+#optionsBlock {
+	width: 441px; height: 125px; float: right;
+}
+#convertButton {
+	width: 535px; float: left; cursor: pointer;
+}
+#convertMoreButton {
+	width: 100%; float: left; cursor: pointer;
+}
+#inputBlock {
+	background-position: 0px -322px; padding: 5px 0em; border-radius: 5px; text-align: center; color: rgb(215, 242, 254); overflow: hidden; margin-top: 5px; text-shadow: -1px 1px 0px #000; background-repeat: repeat-x; -moz-border-radius: 5px; -khtml-border-radius: 5px;
+}
+#outputBlock {
+	background-position: 0px -322px; padding: 5px 0em; border-radius: 5px; text-align: center; color: rgb(215, 242, 254); overflow: hidden; margin-top: 5px; text-shadow: -1px 1px 0px #000; background-repeat: repeat-x; -moz-border-radius: 5px; -khtml-border-radius: 5px;
+}
+#optionsBlock {
+	background-position: 0px -322px; padding: 5px 0em; border-radius: 5px; text-align: center; color: rgb(215, 242, 254); overflow: hidden; margin-top: 5px; text-shadow: -1px 1px 0px #000; background-repeat: repeat-x; -moz-border-radius: 5px; -khtml-border-radius: 5px;
+}
+#convertButton {
+	background-position: 0px -322px; padding: 5px 0em; border-radius: 5px; text-align: center; color: rgb(215, 242, 254); overflow: hidden; margin-top: 5px; text-shadow: -1px 1px 0px #000; background-repeat: repeat-x; -moz-border-radius: 5px; -khtml-border-radius: 5px;
+}
+#convertMoreButton {
+	background-position: 0px -322px; padding: 5px 0em; border-radius: 5px; text-align: center; color: rgb(215, 242, 254); overflow: hidden; margin-top: 5px; text-shadow: -1px 1px 0px #000; background-repeat: repeat-x; -moz-border-radius: 5px; -khtml-border-radius: 5px;
+}
+#convertButton:hover {
+	background-position: 0px -336px;
+}
+#convertMoreButton:hover {
+	background-position: 0px -336px;
+}
+#optionsBlockLeft {
+	width: 50%; float: left;
+}
+#optionsBlockRight {
+	width: 50%; float: right;
+}
+#inputSprite {
+	background-position: 0px -45px; margin: auto auto 1px; width: 59px; height: 29px;
+}
+#outputSprite {
+	background-position: 0px -76px; margin: auto; width: 82px; height: 30px;
+}
+#optionsSprite {
+	background-position: 0px -109px; margin: auto; width: 93px; height: 30px;
+}
+#convertButtonSprite {
+	background-position: 0px -138px; margin: 3px auto auto; width: 118px; height: 41px;
+}
+#convertMoreButtonSprite {
+	background-position: 0px -248px; margin: 3px auto auto; width: 348px; height: 41px;
+}
+#footer {
+	background: url("../images/sanAndreasFooter.png") repeat-x; width: 100%; min-width: 981px;
+}
+.textAreaResize {
+	padding: 3px; border-radius: 3px; height: 9px; cursor: s-resize; -moz-border-radius: 3px; -khtml-border-radius: 3px;
+}
+textarea {
+	background: none; color: rgb(204, 204, 204); -ms-overflow-x: hidden;
+}
+.textAreaResizeHandle {
+	background-position: 0px -211px; margin: auto; width: 27px; height: 9px;
+}
+.resizableTextarea textarea {
+	width: 95%; margin-bottom: 0px; display: block;
+}
+.addCustomFormat {
+	background: rgb(255, 255, 255); border-radius: 5px; text-align: center; display: none; position: absolute; z-index: 40000; box-shadow: 0px 0px 100px #000; -moz-border-radius: 5px; -khtml-border-radius: 5px; -moz-box-shadow: 0px 0px 100px #000; -webkit-box-shadow: 0px 0px 100px #000;
+}
+#zoom {
+	background: rgb(255, 255, 255); padding: 5px; border-radius: 5px; text-align: center; z-index: 20000; box-shadow: 0px 0px 100px #000; -moz-border-radius: 5px; -khtml-border-radius: 5px; -moz-box-shadow: 0px 0px 100px #000; -webkit-box-shadow: 0px 0px 100px #000;
+}
+#zoomContent {
+	height: 100%;
+}
+#zoomClose {
+	background-position: 0px -322px; border-radius: 3px; height: 30px; bottom: 37px; padding-top: 7px; position: relative; cursor: pointer; background-repeat: repeat-x; -moz-border-radius: 3px; -khtml-border-radius: 3px;
+}
+#zoomOverlay {
+	background: rgb(0, 0, 0); left: 0px; top: 0px; width: 100%; height: 100%; float: right; display: none; position: absolute; z-index: 9999;
+}
+#formatOverlay {
+	background: none; left: 0px; top: 0px; width: 100%; height: 100%; float: right; display: none; position: absolute; z-index: 25000;
+}
+.deleteModeHelp {
+	height: 20px;
+}
+ul {
+	list-style-type: none;
+}
+li {
+	width: 100%; color: rgb(0, 0, 0); margin-bottom: 5px; list-style-type: none; opacity: 0.6;
+}
+.li:hover {
+	background: rgb(221, 221, 221); opacity: 1;
+}
+.liSelected {
+	background: rgb(29, 92, 127); width: 100%; color: rgb(255, 255, 255); margin-bottom: 5px; display: block; list-style-type: none; opacity: 1; text-shadow: -1px 1px 0px #000;
+}
+input {
+	border-radius: 8px; border: thin solid rgb(221, 221, 221); border-image: none; height: 30px; font-size: 15px; -moz-border-radius: 8px; -khtml-border-radius: 8px;
+}
+input:focus {
+	border: thin solid rgb(29, 92, 127); border-image: none;
+}
+td {
+	width: 25%; text-align: center; vertical-align: top;
+}
+table {
+	border: currentColor; border-image: none; width: 100%;
+}
+.addObjectFormats {
+	width: 100%; height: 383px; text-align: left; overflow: auto; font-size: 13px; z-index: 40000; cursor: pointer;
+}
+.addVehicleFormats {
+	width: 100%; height: 383px; text-align: left; overflow: auto; font-size: 13px; z-index: 40000; cursor: pointer;
+}
+.customParamTable {
+	margin: auto; border-radius: 8px; border: thin solid rgb(221, 221, 221); border-image: none; width: 500px; font-size: x-small; -moz-border-radius: 8px; -khtml-border-radius: 8px;
+}
+#uploadLink {
+	width: 250px; text-align: right; color: rgb(255, 255, 255); padding-right: 5px; margin-left: auto; position: relative; cursor: pointer; text-shadow: -1px 1px 0px #000;
+}
+#selectAllText {
+	width: 250px; text-align: right; color: rgb(255, 255, 255); padding-right: 5px; margin-left: auto; position: relative; cursor: pointer; text-shadow: -1px 1px 0px #000;
+}
+#selectAllText {
+	z-index: 1000;
+}
+a {
+	color: rgb(215, 242, 254); text-decoration: none;
+}
+p {
+	margin: 0px; padding: 0px; color: rgb(255, 255, 255); display: inline;
+}
+#dropDownContainer a {
+	text-decoration: underline;
+}
+.largeText {
+	font-size: large;
+}
+.medText {
+	color: rgb(255, 255, 255); font-size: 16px;
+}
+#logo {
+	text-align: center; color: rgb(255, 255, 255); text-transform: lowercase; font-family: circula-medium; font-size: 48pt; margin-bottom: 5px;
+}
+.powered {
+	top: 5px; width: 981px; text-align: right; color: rgb(0, 0, 0); padding-right: 10px; font-weight: bold; margin-right: auto; margin-left: auto; position: relative;
+}
+.powered a {
+	color: rgb(17, 17, 17);
+}
+.powered a:hover {
+	color: rgb(255, 255, 255);
+}
+#pageHeader {
+	width: 981px; margin-right: auto; margin-left: auto;
+}
+.close {
+	background-position: 0px -224px; margin: auto; width: 70px; height: 25px;
+}
+.blackText {
+	color: rgb(0, 0, 0);
+}
+#reflection {
+	background: url("../images/reflection.png"); width: 100%; height: 33px; margin-top: 64px; opacity: 0.5;
+}
+#reflectionMore {
+	background: url("../images/reflection.png"); width: 100%; height: 33px; margin-top: 64px; opacity: 0.5;
+}
+#reflectionMore {
+	background-position: 0px -107px;
+}
+img {
+	border: currentColor; border-image: none; cursor: pointer;
+}
+#noscript {
+	background: url("../images/backgroundTop.png") repeat-x rgb(182, 242, 250); left: 0px; top: 0px; width: 100%; height: 100%; text-align: center; color: rgb(255, 255, 255); font-size: x-large; display: block; position: absolute; z-index: 30000; text-shadow: -1px 1px 0px #000;
+}
+#ie6 {
+	background: url("../images/backgroundTop.png") repeat-x rgb(182, 242, 250); left: 0px; top: 0px; width: 100%; height: 100%; text-align: center; color: rgb(255, 255, 255); font-size: x-large; display: block; position: absolute; z-index: 30000; text-shadow: -1px 1px 0px #000;
+}
+#loading {
+	background: url("../images/backgroundTop.png") repeat-x rgb(182, 242, 250); left: 0px; top: 0px; width: 100%; height: 100%; text-align: center; color: rgb(255, 255, 255); font-size: x-large; display: block; position: absolute; z-index: 30000; text-shadow: -1px 1px 0px #000;
+}
+#pageContainerConverted {
+	display: none;
+}
+#qualityControlWarning {
+	background: rgb(255, 255, 153); padding: 5px; border-radius: 5px; text-align: center; margin-top: 5px; -moz-border-radius: 5px; -khtml-border-radius: 5px;
+}
+#clItem {
+	padding: 5px 0px; margin-bottom: 5px;
+}
+:nth-child(2n+1)#clItem {
+	background: rgb(238, 238, 238); border-top-color: rgb(221, 221, 221); border-bottom-color: rgb(221, 221, 221); border-top-width: 1px; border-bottom-width: 1px; border-top-style: solid; border-bottom-style: solid;
+}
+#clItem strong {
+	font-size: 13px;
+}
+#vehicleColourTooltip {
+	background: rgb(221, 221, 221); padding: 3px; border-radius: 5px; left: 5px; top: 5px; width: 60px; display: none; position: absolute; -moz-border-radius: 5px; -khtml-border-radius: 5px;
+}

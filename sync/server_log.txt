@@ -1,0 +1,634 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[05:15:20] 
+[05:15:20] Server Plugins
+[05:15:20] --------------
+[05:15:20]  Loading plugin: sscanf
+[05:15:20]   Failed (plugins/sscanf: cannot open shared object file: No such file or directory)
+[05:15:20]  Loading plugin: whirlpool
+[05:15:20]   Failed (plugins/whirlpool: cannot open shared object file: No such file or directory)
+[05:15:20]  Loading plugin: regex
+[05:15:20]   Failed (plugins/regex: cannot open shared object file: No such file or directory)
+[05:15:20]  Loading plugin: dns
+[05:15:20]   Failed (plugins/dns: cannot open shared object file: No such file or directory)
+[05:15:20]  Loading plugin: streamer
+[05:15:20]   Failed (plugins/streamer: cannot open shared object file: No such file or directory)
+[05:15:20]  Loading plugin: MapAndreas
+[05:15:20]   Failed (plugins/MapAndreas: cannot open shared object file: No such file or directory)
+[05:15:20]  Loaded 0 plugins.
+
+[05:15:20] 
+[05:15:20] Filterscripts
+[05:15:20] ---------------
+[05:15:20]   Loading filterscript 'hunterbackup.amx'...
+[05:15:20] 
+--------------------------------------
+[05:15:20]  Hunter Ammo By Colonel-Top (Promsurin Putthammawong)Loaded!
+[05:15:20] --------------------------------------
+
+[05:15:20]   Loading filterscript 'newv.amx'...
+[05:15:20]   Loaded 2 filterscripts.
+
+[05:15:20] Script[gamemodes/TAW.amx]: Run time error 19: "File or function is not found"
+[05:15:20] Number of vehicle models: 0
+[05:18:50] --- Server Shutting Down.
+[05:18:50] 
+--------------------------------------
+[05:18:50]  Hunter Ammo By Colonel-Top (Promsurin Putthammawong)Unloaded!
+[05:18:50] --------------------------------------
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[05:20:17] 
+[05:20:17] Server Plugins
+[05:20:17] --------------
+[05:20:17]  Loading plugin: sscanf.so
+[05:20:17] 
+
+[05:20:17]  ===============================
+
+[05:20:17]       sscanf plugin loaded.     
+
+[05:20:17]          Version:  2.8.1        
+
+[05:20:17]    (c) 2012 Alex "Y_Less" Cole  
+
+[05:20:17]  ===============================
+
+[05:20:17]   Loaded.
+[05:20:17]  Loading plugin: whirlpool.so
+[05:20:17]  
+[05:20:17]  ==================
+[05:20:17]  
+[05:20:17]   Whirlpool loaded
+[05:20:17]  
+[05:20:17]  ==================
+[05:20:17]  
+[05:20:17]   Loaded.
+[05:20:17]  Loading plugin: regex.so
+[05:20:17] 
+
+[05:20:17] ______________________________________
+
+[05:20:17]  Regular Expression Plugin v0.2.0 loaded
+[05:20:17] ______________________________________
+
+[05:20:17]  By: Fro (c) Copyright <TBG> 2009-2011
+[05:20:17] ______________________________________
+
+[05:20:17]   Loaded.
+[05:20:17]  Loading plugin: dns.so
+[05:20:17] 
+
+*** DNS Plugin v2.4 by Incognito loaded ***
+
+[05:20:17]   Loaded.
+[05:20:17]  Loading plugin: streamer.so
+[05:20:17] 
+
+*** Streamer Plugin v2.7 by Incognito loaded ***
+
+[05:20:17]   Loaded.
+[05:20:17]  Loading plugin: MapAndreas
+[05:20:17]   Failed (plugins/MapAndreas: cannot open shared object file: No such file or directory)
+[05:20:17]  Loading plugin: .so
+[05:20:17]   Failed (plugins/.so: cannot open shared object file: No such file or directory)
+[05:20:17]  Loaded 5 plugins.
+
+[05:20:17] 
+[05:20:17] Filterscripts
+[05:20:17] ---------------
+[05:20:17]   Loading filterscript 'hunterbackup.amx'...
+[05:20:17] 
+--------------------------------------
+[05:20:17]  Hunter Ammo By Colonel-Top (Promsurin Putthammawong)Loaded!
+[05:20:17] --------------------------------------
+
+[05:20:17]   Loading filterscript 'newv.amx'...
+[05:20:17]   Loaded 2 filterscripts.
+
+[05:20:17] 
+----------------------------------
+[05:20:17]  Battlefield Of Triangle War 
+[05:20:17] ----------------------------------
+
+[05:20:17] Number of vehicle models: 43
+[05:20:50] Incoming connection: 202.29.179.30:49575
+[05:20:52] [join] Colonel_Top has joined the server (0:202.29.179.30)
+[05:21:22] [part] Colonel_Top has left the server (0:1)
+[05:24:18] --- Server Shutting Down.
+[05:24:18] 
+--------------------------------------
+[05:24:18]  Hunter Ammo By Colonel-Top (Promsurin Putthammawong)Unloaded!
+[05:24:18] --------------------------------------
+
+[05:24:19] 
+
+[05:24:19]  ===============================
+
+[05:24:19]      sscanf plugin unloaded.    
+
+[05:24:19]  ===============================
+
+[05:24:19]  
+[05:24:19]  ====================
+[05:24:19]  
+[05:24:19]   Whirlpool unloaded
+[05:24:19]  
+[05:24:19]  ====================
+[05:24:19]  
+[05:24:19] 
+
+[05:24:19] ______________________________________
+
+[05:24:19]  Regular Expression Plugin v0.2.0 unloaded
+[05:24:19] ______________________________________
+
+[05:24:19] 
+
+*** DNS Plugin v2.4 by Incognito unloaded ***
+
+[05:24:19] 
+
+*** Streamer Plugin v2.7 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[05:24:24] 
+[05:24:24] Server Plugins
+[05:24:24] --------------
+[05:24:24]  Loading plugin: sscanf.so
+[05:24:24] 
+
+[05:24:24]  ===============================
+
+[05:24:24]       sscanf plugin loaded.     
+
+[05:24:24]          Version:  2.8.1        
+
+[05:24:24]    (c) 2012 Alex "Y_Less" Cole  
+
+[05:24:24]  ===============================
+
+[05:24:24]   Loaded.
+[05:24:24]  Loading plugin: whirlpool.so
+[05:24:24]  
+[05:24:24]  ==================
+[05:24:24]  
+[05:24:24]   Whirlpool loaded
+[05:24:24]  
+[05:24:24]  ==================
+[05:24:24]  
+[05:24:24]   Loaded.
+[05:24:24]  Loading plugin: regex.so
+[05:24:24] 
+
+[05:24:24] ______________________________________
+
+[05:24:24]  Regular Expression Plugin v0.2.0 loaded
+[05:24:24] ______________________________________
+
+[05:24:24]  By: Fro (c) Copyright <TBG> 2009-2011
+[05:24:24] ______________________________________
+
+[05:24:24]   Loaded.
+[05:24:24]  Loading plugin: dns.so
+[05:24:24] 
+
+*** DNS Plugin v2.4 by Incognito loaded ***
+
+[05:24:24]   Loaded.
+[05:24:24]  Loading plugin: streamer.so
+[05:24:24] 
+
+*** Streamer Plugin v2.7 by Incognito loaded ***
+
+[05:24:24]   Loaded.
+[05:24:24]  Loading plugin: MapAndreas.so
+[05:24:24]   Loaded.
+[05:24:24]  Loaded 6 plugins.
+
+[05:24:25] 
+[05:24:25] Filterscripts
+[05:24:25] ---------------
+[05:24:25]   Loading filterscript 'hunterbackup.amx'...
+[05:24:25] 
+--------------------------------------
+[05:24:25]  Hunter Ammo By Colonel-Top (Promsurin Putthammawong)Loaded!
+[05:24:25] --------------------------------------
+
+[05:24:25]   Loading filterscript 'newv.amx'...
+[05:24:25] 
+--------------------------------------
+[05:24:25]  System Organization Administrator
+[05:24:25] --------------------------------------
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[05:24:38] 
+[05:24:38] Server Plugins
+[05:24:38] --------------
+[05:24:38]  Loading plugin: sscanf.so
+[05:24:38] 
+
+[05:24:38]  ===============================
+
+[05:24:38]       sscanf plugin loaded.     
+
+[05:24:38]          Version:  2.8.1        
+
+[05:24:38]    (c) 2012 Alex "Y_Less" Cole  
+
+[05:24:38]  ===============================
+
+[05:24:38]   Loaded.
+[05:24:38]  Loading plugin: whirlpool.so
+[05:24:38]  
+[05:24:38]  ==================
+[05:24:38]  
+[05:24:38]   Whirlpool loaded
+[05:24:38]  
+[05:24:38]  ==================
+[05:24:38]  
+[05:24:38]   Loaded.
+[05:24:38]  Loading plugin: regex.so
+[05:24:38] 
+
+[05:24:38] ______________________________________
+
+[05:24:38]  Regular Expression Plugin v0.2.0 loaded
+[05:24:38] ______________________________________
+
+[05:24:38]  By: Fro (c) Copyright <TBG> 2009-2011
+[05:24:38] ______________________________________
+
+[05:24:38]   Loaded.
+[05:24:38]  Loading plugin: dns.so
+[05:24:38] 
+
+*** DNS Plugin v2.4 by Incognito loaded ***
+
+[05:24:38]   Loaded.
+[05:24:38]  Loading plugin: streamer.so
+[05:24:39] 
+
+*** Streamer Plugin v2.7 by Incognito loaded ***
+
+[05:24:39]   Loaded.
+[05:24:39]  Loading plugin: MapAndreas.so
+[05:24:39]   Loaded.
+[05:24:39]  Loaded 6 plugins.
+
+[05:24:39] 
+[05:24:39] Filterscripts
+[05:24:39] ---------------
+[05:24:39]   Loading filterscript 'hunterbackup.amx'...
+[05:24:39] 
+--------------------------------------
+[05:24:39]  Hunter Ammo By Colonel-Top (Promsurin Putthammawong)Loaded!
+[05:24:39] --------------------------------------
+
+[05:24:39]   Loading filterscript 'newv.amx'...
+[05:24:39] 
+--------------------------------------
+[05:24:39]  System Organization Administrator
+[05:24:39] --------------------------------------
+
+[05:24:39]   Loaded 2 filterscripts.
+
+[05:24:39] 
+----------------------------------
+[05:24:39]  Battlefield Of Triangle War 
+[05:24:39] ----------------------------------
+
+[05:24:39] Number of vehicle models: 43
+[05:24:48] --- Server Shutting Down.
+[05:24:48] 
+--------------------------------------
+[05:24:48]  Hunter Ammo By Colonel-Top (Promsurin Putthammawong)Unloaded!
+[05:24:48] --------------------------------------
+
+[05:24:48] 
+
+[05:24:48]  ===============================
+
+[05:24:48]      sscanf plugin unloaded.    
+
+[05:24:48]  ===============================
+
+[05:24:48]  
+[05:24:48]  ====================
+[05:24:48]  
+[05:24:48]   Whirlpool unloaded
+[05:24:48]  
+[05:24:48]  ====================
+[05:24:48]  
+[05:24:48] 
+
+[05:24:48] ______________________________________
+
+[05:24:48]  Regular Expression Plugin v0.2.0 unloaded
+[05:24:48] ______________________________________
+
+[05:24:48] 
+
+*** DNS Plugin v2.4 by Incognito unloaded ***
+
+[05:24:48] 
+
+*** Streamer Plugin v2.7 by Incognito unloaded ***
+
+[05:24:54]   Loaded 2 filterscripts.
+
+[05:24:54] 
+----------------------------------
+[05:24:54]  Battlefield Of Triangle War 
+[05:24:54] ----------------------------------
+
+[05:24:54] Number of vehicle models: 43
+[05:24:54] --- Server Shutting Down.
+[05:24:54] 
+--------------------------------------
+[05:24:54]  Hunter Ammo By Colonel-Top (Promsurin Putthammawong)Unloaded!
+[05:24:54] --------------------------------------
+
+[05:24:54] 
+
+[05:24:54]  ===============================
+
+[05:24:54]      sscanf plugin unloaded.    
+
+[05:24:54]  ===============================
+
+[05:24:54]  
+[05:24:54]  ====================
+[05:24:54]  
+[05:24:54]   Whirlpool unloaded
+[05:24:54]  
+[05:24:54]  ====================
+[05:24:54]  
+[05:24:54] 
+
+[05:24:54] ______________________________________
+
+[05:24:54]  Regular Expression Plugin v0.2.0 unloaded
+[05:24:54] ______________________________________
+
+[05:24:54] 
+
+*** DNS Plugin v2.4 by Incognito unloaded ***
+
+[05:24:54] 
+
+*** Streamer Plugin v2.7 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[05:25:00] 
+[05:25:00] Server Plugins
+[05:25:00] --------------
+[05:25:00]  Loading plugin: sscanf.so
+[05:25:00] 
+
+[05:25:00]  ===============================
+
+[05:25:00]       sscanf plugin loaded.     
+
+[05:25:00]          Version:  2.8.1        
+
+[05:25:00]    (c) 2012 Alex "Y_Less" Cole  
+
+[05:25:00]  ===============================
+
+[05:25:00]   Loaded.
+[05:25:00]  Loading plugin: whirlpool.so
+[05:25:00]  
+[05:25:00]  ==================
+[05:25:00]  
+[05:25:00]   Whirlpool loaded
+[05:25:00]  
+[05:25:00]  ==================
+[05:25:00]  
+[05:25:00]   Loaded.
+[05:25:00]  Loading plugin: regex.so
+[05:25:00] 
+
+[05:25:00] ______________________________________
+
+[05:25:00]  Regular Expression Plugin v0.2.0 loaded
+[05:25:00] ______________________________________
+
+[05:25:00]  By: Fro (c) Copyright <TBG> 2009-2011
+[05:25:00] ______________________________________
+
+[05:25:00]   Loaded.
+[05:25:00]  Loading plugin: dns.so
+[05:25:00] 
+
+*** DNS Plugin v2.4 by Incognito loaded ***
+
+[05:25:00]   Loaded.
+[05:25:00]  Loading plugin: streamer.so
+[05:25:00] 
+
+*** Streamer Plugin v2.7 by Incognito loaded ***
+
+[05:25:00]   Loaded.
+[05:25:00]  Loading plugin: MapAndreas.so
+[05:25:00]   Loaded.
+[05:25:00]  Loaded 6 plugins.
+
+[05:25:00] 
+[05:25:00] Filterscripts
+[05:25:00] ---------------
+[05:25:00]   Loading filterscript 'hunterbackup.amx'...
+[05:25:00] 
+--------------------------------------
+[05:25:00]  Hunter Ammo By Colonel-Top (Promsurin Putthammawong)Loaded!
+[05:25:00] --------------------------------------
+
+[05:25:00]   Loading filterscript 'newv.amx'...
+[05:25:00] 
+--------------------------------------
+[05:25:00]  System Organization Administrator
+[05:25:00] --------------------------------------
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3z, (C)2005-2014 SA-MP Team
+
+[05:25:12] 
+[05:25:12] Server Plugins
+[05:25:12] --------------
+[05:25:12]  Loading plugin: sscanf.so
+[05:25:12] 
+
+[05:25:12]  ===============================
+
+[05:25:12]       sscanf plugin loaded.     
+
+[05:25:12]          Version:  2.8.1        
+
+[05:25:12]    (c) 2012 Alex "Y_Less" Cole  
+
+[05:25:12]  ===============================
+
+[05:25:12]   Loaded.
+[05:25:12]  Loading plugin: whirlpool.so
+[05:25:12]  
+[05:25:12]  ==================
+[05:25:12]  
+[05:25:12]   Whirlpool loaded
+[05:25:12]  
+[05:25:12]  ==================
+[05:25:12]  
+[05:25:12]   Loaded.
+[05:25:12]  Loading plugin: regex.so
+[05:25:12] 
+
+[05:25:12] ______________________________________
+
+[05:25:12]  Regular Expression Plugin v0.2.0 loaded
+[05:25:12] ______________________________________
+
+[05:25:12]  By: Fro (c) Copyright <TBG> 2009-2011
+[05:25:12] ______________________________________
+
+[05:25:12]   Loaded.
+[05:25:12]  Loading plugin: dns.so
+[05:25:12] 
+
+*** DNS Plugin v2.4 by Incognito loaded ***
+
+[05:25:12]   Loaded.
+[05:25:12]  Loading plugin: streamer.so
+[05:25:12] 
+
+*** Streamer Plugin v2.7 by Incognito loaded ***
+
+[05:25:12]   Loaded.
+[05:25:12]  Loading plugin: MapAndreas.so
+[05:25:12]   Loaded.
+[05:25:12]  Loaded 6 plugins.
+
+[05:25:12] 
+[05:25:12] Filterscripts
+[05:25:12] ---------------
+[05:25:12]   Loading filterscript 'hunterbackup.amx'...
+[05:25:12] 
+--------------------------------------
+[05:25:12]  Hunter Ammo By Colonel-Top (Promsurin Putthammawong)Loaded!
+[05:25:12] --------------------------------------
+
+[05:25:12]   Loading filterscript 'newv.amx'...
+[05:25:13] 
+--------------------------------------
+[05:25:13]  System Organization Administrator
+[05:25:13] --------------------------------------
+
+[05:25:19]   Loaded 2 filterscripts.
+
+[05:25:20] 
+----------------------------------
+[05:25:20]  Battlefield Of Triangle War 
+[05:25:20] ----------------------------------
+
+[05:25:20] Number of vehicle models: 43
+[05:25:20] --- Server Shutting Down.
+[05:25:20] 
+--------------------------------------
+[05:25:20]  Hunter Ammo By Colonel-Top (Promsurin Putthammawong)Unloaded!
+[05:25:20] --------------------------------------
+
+[05:25:20] 
+
+[05:25:20]  ===============================
+
+[05:25:20]      sscanf plugin unloaded.    
+
+[05:25:20]  ===============================
+
+[05:25:20]  
+[05:25:20]  ====================
+[05:25:20]  
+[05:25:20]   Whirlpool unloaded
+[05:25:20]  
+[05:25:20]  ====================
+[05:25:20]  
+[05:25:20] 
+
+[05:25:20] ______________________________________
+
+[05:25:20]  Regular Expression Plugin v0.2.0 unloaded
+[05:25:20] ______________________________________
+
+[05:25:20] 
+
+*** DNS Plugin v2.4 by Incognito unloaded ***
+
+[05:25:20] 
+
+*** Streamer Plugin v2.7 by Incognito unloaded ***
+
+[05:25:30]   Loaded 2 filterscripts.
+
+[05:25:30] 
+----------------------------------
+[05:25:30]  Battlefield Of Triangle War 
+[05:25:30] ----------------------------------
+
+[05:25:30] Number of vehicle models: 43
+[05:25:56] Incoming connection: 202.29.179.30:16987
+[05:25:57] [join] Colonel_Top has joined the server (0:202.29.179.30)
+[05:26:41] [SYSTEM]: Administrator Colonel_Top has set cash Player Colonel
+[05:27:51] [SYSTEM]: Administrator Colonel_Top Enable God Mode
+[05:28:37] [death] Colonel_Top died 255
+[05:28:49] [death] Colonel_Top died 255
+[05:29:01] [SYSTEM]: Administrator Colonel_Top has set Kills Player Colone
+[05:29:03] [death] Colonel_Top died 255
+[05:29:13] [SYSTEM]: Administrator Colonel_Top has set Kills Player Colone
+[05:29:15] [death] Colonel_Top died 255
+[05:29:22] [death] Colonel_Top died 255
+[05:29:28] [death] Colonel_Top died 255
+[05:29:39] Player : Colonel_Top has Disconnected from the server. (Leaving)
+[05:29:39] [part] Colonel_Top has left the server (0:1)

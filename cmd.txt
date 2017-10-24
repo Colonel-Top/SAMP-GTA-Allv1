@@ -1,0 +1,79 @@
+Level 0 
+: Civilian
+/cmds
+/pm *
+/spm *
+/report *
+/admins *
+/changepass ***** 
+/stats
+/saveskin *
+/cancelskin *
+/useskin*
+level 1 
+: Alpha Falcon Employee
+/mute * 
+/unmute *
+/warn * 
+/spawn *
+/repairv playerid *
+/fixv playerid  *
+/addnos *
+/reports *
+/saveplace *
+/gotoplace *
+/goto *
+/get *
+/destroycars*
+Level 2
+: Alpha Falcon Master Employee
+/clearchat *
+/kick *
+/pheal *
+/heal *
+/armour *
+/disarm *
+/jail *
+/unjail *
+/freeze *
+/unfreeze *
+/akill *
+/setcolour
+/slap* 25%
+/punch* 50%
+/spec* 75%
+/specoff*
+/acar*
+/abike*
+/aheli*
+/aplane*
+/paplane*
+/aboat*
+/eject*
+/givecar*
+Level 3
+: Alpha Falcon Secretary
+/announce
+/ban *
+/unban *
+/healall *
+/armourall *
+/giveweapon* cash* score*
+/set time* world* pweather* health* armour* name* cash* score*
+/setweather *
+/god *
+/killall *
+/respawnall *
+/getall *
+/akill *
+Level 4
+: Alpha Falcon Agent
+/respawncars *
+/giveall cash* score* weapon*
+/setall score* cash* time* weather *
+/setweatherid*
+
+Level 5
+: President
+/setlevel kills death score cash rpk settemplevel *all finish*
+/setlevel *
